@@ -1,0 +1,322 @@
+[   
+      {     
+            "id":1,     
+            "name":"John Smith",     
+            "position":"Server",     
+            "applied":"03/15/16",     
+            "experience":2,     
+            "availability":
+            {       
+                  "M":2,       
+                  "T":2,      
+                  "W":1,       
+                  "Th":2,       
+                  "F":1,       
+                  "S":0,       
+                  "Su":0     
+            },     
+            "questions":[ 
+                  {     
+                        "text":"Have you ever been convicted of a felony?",         
+                        "answer":"No"       
+                  }     
+            ]   
+      },   
+      {     
+            "id":2,     
+            "name":"Jane Smith",     
+            "position":"Cook",     
+            "applied":"02/08/16",     
+            "experience":4,     
+            "availability":
+            {       
+                  "M":1,       
+                  "T":1,       
+                  "W":1,       
+                  "Th":1,       
+                  "F":0,       
+                  "S":0,       
+                  "Su":0     
+                   
+            },     
+            "questions":
+            [       
+                  {         
+                        "text":"Have you ever been convicted of a felony?",         
+                        "answer":"Yes"       
+                         
+                  }     
+            ]
+      },
+      {     
+            "id":3,     
+            "name":"David Jessup",     
+            "position":"Chef",     
+            "applied":"03/08/16",     
+            "experience":2,     
+            "availability":
+            {       
+                  "M":2,       
+                  "T":2,       
+                  "W":2,       
+                  "Th":2,       
+                  "F":2,       
+                  "S":0,       
+                  "Su":0     
+            }, 
+            "questions":
+            [       
+                  {         
+                        "text":"Are you authorized to work in the United States?",         
+                        "answer":"Yes"       
+                        
+                  }     
+            ]   
+      }, 
+      {     
+            "id":4,     
+            "name":"Clay vanSchalkwijk",     
+            "position":"Cook",     
+            "applied":"03/08/16",     
+            "experience":1,     
+            "availability":
+            {       
+                  "M":1,       
+                  "T":0,       
+                  "W":1,       
+                  "Th":0,       
+                  "F":1,       
+                  "S":0,       
+                  "Su":0     
+                  
+            },     
+            "questions":
+            [       
+                  {         
+                        "text":"Are you authorized to work in the United States?",         
+                        "answer":"Yes"       
+                        
+                  }     
+            ]   
+            
+      },
+       {     
+            "id":5,     
+            "name":"John Hopewell",     
+            "position":"Cook",     
+            "applied":"03/03/16",     
+            "experience":2,     
+            "availability":
+            {       
+                  "M":0,       
+                  "T":1,       
+                  "W":1,       
+                  "Th":0,       
+                  "F":1,       
+                  "S":1,       
+                  "Su":0     
+                  
+            },     
+            "questions":
+            [       
+                  {         
+                        "text":"Are you authorized to work in the United States?",         
+                        "answer":"No"       
+                        
+                  }     
+            ]   
+            
+      }, 
+      {     
+            "id":6,     
+            "name":"Sam Ripley",     
+            "position":"Waiter",     
+            "applied":"06/03/15",     
+            "experience":4,     
+            "availability":
+            {       
+                  "M":0,       
+                  "T":1,       
+                  "W":1,       
+                  "Th":1,       
+                  "F":1,       
+                  "S":0,       
+                  "Su":0     
+                  
+            },     
+            "questions":
+            [       
+                  {         
+                        "text":"Are you authorized to work in the United States?",         
+                        "answer":"No"       
+                        
+                  },
+                  {         
+                        "text":"Have you ever been convicted of a felony?",         
+                        "answer":"Yes"       
+                        
+                  }     
+            ]   
+            
+      },
+      {     
+            "id":7,     
+            "name":"Williams Black",     
+            "position":"Server",     
+            "applied":"02/03/17",     
+            "experience":10,     
+            "availability":
+            {       
+                  "M":1,       
+                  "T":1,       
+                  "W":1,       
+                  "Th":1,       
+                  "F":0,       
+                  "S":0,       
+                  "Su":1     
+                  
+            },     
+            "questions":
+            [       
+                  {         
+                        "text":"Are you authorized to work in the United States?",         
+                        "answer":"Yes"       
+                        
+                  },
+                  {         
+                        "text":"Have you ever been convicted of a felony?",         
+                        "answer":"No"       
+                        
+                  }     
+            ]   
+            
+      },
+      {     
+            "id":8,     
+            "name":"Victor Gomez",     
+            "position":"Chef",     
+            "applied":"01/23/17",     
+            "experience":3,     
+            "availability":
+            {       
+                  "M":0,       
+                  "T":1,       
+                  "W":1,       
+                  "Th":1,       
+                  "F":1,       
+                  "S":0,       
+                  "Su":1     
+                  
+            },     
+            "questions":
+            [       
+                  {         
+                        "text":"Are you authorized to work in the United States?",         
+                        "answer":"Yes"       
+                        
+                  },
+                  {         
+                        "text":"Have you ever been convicted of a felony?",         
+                        "answer":"No"       
+                        
+                  }     
+            ]   
+            
+      },
+      {     
+            "id":9,     
+            "name":"Jon Connell",     
+            "position":"Custodian",     
+            "applied":"02/29/17",     
+            "experience":4,     
+            "availability":
+            {       
+                  "M":1,       
+                  "T":1,       
+                  "W":1,       
+                  "Th":1,       
+                  "F":1,       
+                  "S":1,       
+                  "Su":1     
+                  
+            },     
+            "questions":
+            [       
+                  {         
+                        "text":"Are you authorized to work in the United States?",         
+                        "answer":"Yes"       
+                        
+                  },
+                  {         
+                        "text":"Have you ever been convicted of a felony?",         
+                        "answer":"No"       
+                        
+                  }     
+            ]   
+            
+      },
+      {     
+            "id":10,     
+            "name":"Kevin Clark",     
+            "position":"Server",     
+            "applied":"01/03/17",     
+            "experience":2,     
+            "availability":
+            {       
+                  "M":1,       
+                  "T":0,       
+                  "W":0,       
+                  "Th":0,       
+                  "F":0,       
+                  "S":0,       
+                  "Su":0     
+                  
+            },     
+            "questions":
+            [       
+                  {         
+                        "text":"Are you authorized to work in the United States?",         
+                        "answer":"Yes"       
+                        
+                  },
+                  {         
+                        "text":"Have you ever been convicted of a felony?",         
+                        "answer":"Yes"       
+                        
+                  }     
+            ]   
+            
+      },
+      {     
+            "id":11,     
+            "name":"Mary Colvin",     
+            "position":"Chef",     
+            "applied":"03/11/17",     
+            "experience":15,     
+            "availability":
+            {       
+                  "M":1,       
+                  "T":1,       
+                  "W":1,       
+                  "Th":1,       
+                  "F":0,       
+                  "S":0,       
+                  "Su":0     
+                  
+            },     
+            "questions":
+            [       
+                  {         
+                        "text":"Are you authorized to work in the United States?",         
+                        "answer":"Yes"       
+                        
+                  },
+                  {         
+                        "text":"Have you ever been convicted of a felony?",         
+                        "answer":"No"       
+                        
+                  }     
+            ]   
+            
+      }                                   
+]
